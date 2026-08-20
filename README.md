@@ -115,7 +115,7 @@ This interactive Power BI dashboard includes **multiple views**, each designed t
 
 ## 🎥 See It in Action!
 🔗 **[Dashboard Demo](https://app.powerbi.com/view?r=eyJrIjoiODcyNWNhNDktNmFkYS00YTI3LWExZjctOTVkZTQ4NzdjODI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
-📽️ **[Video Presentation](#)**  
+ 
 
 I'm always open to discussions, collaborations, and exciting opportunities! If you're looking for **a data-driven problem solver**, let's connect. 🚀
 
